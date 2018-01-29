@@ -1,0 +1,41 @@
+/* CSS declarations go here */
+.pageHead{
+    width: 85% !important;
+    margin-left: 160px !important;
+    height:130px !important;
+    background:#3e4eb8 !important;
+    position: absolute;
+}
+
+.vertMenu{
+    width: 273px !important;
+    height: 800px !important;
+    position: absolute;
+    top: 129px !important;
+    left: 160px;
+    background:#fcfcfd;
+    border-color:#f2f2f4 !important;
+}
+
+.heading{
+    background: #fafafc;
+    height: 131px;
+    border-color:#f2f2f4 !important;
+}
+
+.myTasks{
+    height:70px !important;
+    border-color:#f2f2f4 !important;
+}
+
+.ul{
+    margin-top: -8px;
+    margin-left: 280px;
+}
+
+.avatar{
+    width: 70px;
+    height: 70px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
